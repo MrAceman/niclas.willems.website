@@ -1,0 +1,52 @@
+.preloader {
+	display: none;
+}
+
+.apptitle {
+	opacity: 1;
+}
+.phone {
+	opacity: 1;
+}
+.phone-big {
+	opacity: 1;
+}
+.rectangle-1 .col-sm-4 {
+	opacity: 1;
+}
+.rectangle-2 ul li {
+	opacity: 1;
+}
+.testimonials-container h1 {
+	opacity: 1;
+}
+#section-team {
+	opacity: 1;
+}
+.team-member {
+	opacity: 1;
+}
+#newsletter-form {
+	opacity: 1;
+}
+#newsletter-message {
+	opacity: 1;
+}
+#footer-animation {
+	opacity: 1;
+}
+.fa-quote-left {
+	opacity: 1;
+}
+.testimonial {
+	opacity: 1;
+}
+#section-2 {
+	opacity: 1;
+}
+#section-3-title {
+	opacity: 1;
+}
+.carousel-indicators {
+	display: none;
+}
