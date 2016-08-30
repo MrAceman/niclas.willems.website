@@ -794,7 +794,7 @@ pre code {
         width: 58.33333333%
     }
     .col-sm-6 {
-        width: 50%
+        width: 50%;
     }
     .col-sm-5 {
         width: 41.66666667%
@@ -6672,310 +6672,7 @@ body.blue #uiTop a:hover {
     background-color: #46abe0;
     color: #fff
 }
-/*body.green .phone {
-    background-image: url(../assets/images/phone/green.png)
-}
-body.green .phone-big {
-    background-image: url(../assets/images/phone/green_big.png)
-}
-body.green .platform-icon a i {
-    color: #6cc82f
-}
-body.green .carousel-indicators li {
-    border: 1px solid #a1e877
-}
-body.green .carousel-indicators li.active {
-    background: #a1e877
-}
-body.green .rectangle-1 {
-    background-color: #98d361
-}
-body.green .rectangle-2 h3 {
-    color: #98d361
-}
-body.green .dwn-btn {
-    border: 2px solid #6cc82f;
-    color: #6cc82f;
-    -moz-transition: .2s;
-    -o-transition: .2s;
-    -webkit-transition: .2s;
-    transition: .2s
-}
-body.green .dwn-btn:hover {
-    background-color: #6cc82f;
-    color: #fff
-}
-body.green .fa-quote-left {
-    color: #6cc82f
-}
-body.green .fa-border {
-    border-color: #6cc82f
-}
-body.green .rectangle-4 .icon {
-    color: #6cc82f
-}
-body.green .rectangle-4 .submit {
-    background-color: #98d361
-}
-body.green .rectangle-4 .fa-heart-o {
-    color: #98d361
-}
-body.green .footer a:hover {
-    color: #98d361
-}
-body.green .preloader {
-    background: #98d361
-}
-body.green .team h3 {
-    color: #98d361
-}
-body.green .avatar {
-    border: 2px solid #98d361
-}
-body.green .team-member a {
-    border: 1px solid #98d361;
-    color: #98d361
-}
-body.green .team-member a:hover {
-    color: #fff;
-    background: #98d361
-}
-body.green #uiTop a {
-    color: #98d361;
-    border: 1px solid #98d361
-}
-body.green #uiTop a:hover {
-    background-color: #98d361;
-    color: #fff
-}
-body.brown .phone {
-    background-image: url(../assets/images/phone/brown.png)
-}
-body.brown .phone-big {
-    background-image: url(../assets/images/phone/brown_big.png)
-}
-body.brown .platform-icon a i {
-    color: #c7b9a7
-}
-body.brown .carousel-indicators li {
-    border: 1px solid #c7b9a7
-}
-body.brown .carousel-indicators li.active {
-    background: #c7b9a7
-}
-body.brown .rectangle-1 {
-    background-color: #d4c5b3
-}
-body.brown .rectangle-2 h3 {
-    color: #c7b9a7
-}
-body.brown .dwn-btn {
-    border: 2px solid #d4c5b3;
-    color: #d4c5b3;
-    -moz-transition: .2s;
-    -o-transition: .2s;
-    -webkit-transition: .2s;
-    transition: .2s
-}
-body.brown .dwn-btn:hover {
-    background-color: #d4c5b3;
-    color: #fff
-}
-body.brown .fa-quote-left {
-    color: #d4c5b3
-}
-body.brown .fa-border {
-    border-color: #d4c5b3
-}
-body.brown .rectangle-4 .icon {
-    color: #d4c5b3
-}
-body.brown .rectangle-4 .submit {
-    background-color: #d4c5b3
-}
-body.brown .rectangle-4 .fa-heart-o {
-    color: #d4c5b3
-}
-body.brown .footer a:hover {
-    color: #c7b9a7
-}
-body.brown .preloader {
-    background: #d4c5b3
-}
-body.brown .team h3 {
-    color: #d4c5b3
-}
-body.brown .avatar {
-    border: 2px solid #d4c5b3
-}
-body.brown .team-member a {
-    border: 1px solid #d4c5b3;
-    color: #d4c5b3
-}
-body.brown .team-member a:hover {
-    color: #fff;
-    background: #d4c5b3
-}
-body.brown #uiTop a {
-    color: #d4c5b3;
-    border: 1px solid #d4c5b3
-}
-body.brown #uiTop a:hover {
-    background-color: #d4c5b3;
-    color: #fff
-}
-body.pink .phone {
-    background-image: url(../assets/images/phone/pink.png)
-}
-body.pink .phone-big {
-    background-image: url(../assets/images/phone/pink_big.png)
-}
-body.pink .platform-icon a i {
-    color: #fe767a
-}
-body.pink .carousel-indicators li {
-    border: 1px solid #fe767a
-}
-body.pink .carousel-indicators li.active {
-    background: #fe767a
-}
-body.pink .rectangle-1 {
-    background-color: #fe767a
-}
-body.pink .rectangle-2 h3 {
-    color: #fe767a
-}
-body.pink .dwn-btn {
-    border: 2px solid #fe767a;
-    color: #fe767a;
-    -moz-transition: .2s;
-    -o-transition: .2s;
-    -webkit-transition: .2s;
-    transition: .2s
-}
-body.pink .dwn-btn:hover {
-    background-color: #fe767a;
-    color: #fff
-}
-body.pink .fa-quote-left {
-    color: #fe767a
-}
-body.pink .fa-border {
-    border-color: #fe767a
-}
-body.pink .rectangle-4 .icon {
-    color: #fe767a
-}
-body.pink .rectangle-4 .submit {
-    background-color: #fe767a
-}
-body.pink .rectangle-4 .fa-heart-o {
-    color: #fe767a
-}
-body.pink .footer a:hover {
-    color: #fe767a
-}
-body.pink .preloader {
-    background: #fe767a
-}
-body.pink .team h3 {
-    color: #fe767a
-}
-body.pink .avatar {
-    border: 2px solid #fe767a
-}
-body.pink .team-member a {
-    border: 1px solid #fe767a;
-    color: #fe767a
-}
-body.pink .team-member a:hover {
-    color: #fff;
-    background: #fe767a
-}
-body.pink #uiTop a {
-    color: #fe767a;
-    border: 1px solid #fe767a
-}
-body.pink #uiTop a:hover {
-    background-color: #fe767a;
-    color: #fff
-}
-body.yellow .phone {
-    background-image: url(../assets/images/phone/yellow.png)
-}
-body.yellow .phone-big {
-    background-image: url(../assets/images/phone/yellow_big.png)
-}
-body.yellow .platform-icon a i {
-    color: #faf189
-}
-body.yellow .carousel-indicators li {
-    border: 1px solid #faf189
-}
-body.yellow .carousel-indicators li.active {
-    background: #faf189
-}
-body.yellow .rectangle-1 {
-    background-color: #FFD900
-}
-body.yellow .rectangle-2 h3 {
-    color: #FFD900
-}
-body.yellow .dwn-btn {
-    border: 2px solid #FFD900;
-    color: #FFD900;
-    -moz-transition: .2s;
-    -o-transition: .2s;
-    -webkit-transition: .2s;
-    transition: .2s
-}
-body.yellow .dwn-btn:hover {
-    background-color: #FFD900;
-    color: #fff
-}
-body.yellow .fa-quote-left {
-    color: #FFD900
-}
-body.yellow .fa-border {
-    border-color: #FFD900
-}
-body.yellow .rectangle-4 .icon {
-    color: #FFD900
-}
-body.yellow .rectangle-4 .submit {
-    background-color: #FFD900
-}
-body.yellow .rectangle-4 .fa-heart-o {
-    color: #FFD900
-}
-body.yellow .footer a:hover {
-    color: #FFD900
-}
-body.yellow .preloader {
-    background: #FFD900
-}
-body.yellow .team h3 {
-    color: #FFD900
-}
-body.yellow .avatar {
-    border: 2px solid #FFD900
-}
-body.yellow .team-member a {
-    border: 1px solid #FFD900;
-    color: #FFD900
-}
-body.yellow .team-member a:hover {
-    color: #fff;
-    background: #FFD900
-}
-body.yellow #uiTop a {
-    color: #FFD900;
-    border: 1px solid #FFD900
-}
-body.yellow #uiTop a:hover {
-    background-color: #FFD900;
-    color: #fff
-}*/
+
 .apptitle {
     opacity: 0
 }
@@ -7238,7 +6935,7 @@ footer {
 }
 .lrn-btn {
     height: 50px;
-    width: 100%;
+    width: 30%;
     -webkit-border-radius: 30px;
     -webkit-background-clip: padding-box;
     -moz-border-radius: 30px;
@@ -7424,13 +7121,14 @@ footer {
   color:black;
 }
 
-.fontBlack {
+.font-black {
   color: black;
 }
 
 .headshot {
-  border-radius: 100%;
-  display: block;
+  border-radius: 10%;
+  /*display: block;*/
+  max-width: 200px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -7444,4 +7142,15 @@ footer {
 
 .contact-me{
   text-align: center;
+}
+
+.learn-more{
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.contact-icon{
+  padding-left:20px;
+  padding-right:20px;
 }
